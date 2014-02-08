@@ -22,7 +22,7 @@ Then, run the server with:
 
     python restduino.py
 
-and you will have a rest interface in port 5000.
+and you will have a rest interface at port 5000.
 
 For example, you can light up the built-in LED at pin 13 with curl:
 
